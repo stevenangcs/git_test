@@ -1,2 +1,3 @@
 # git_test
-Testing out how to create a new repository on GitHub!
+My first GitHub repository!
+Hello TheOdinProject!
